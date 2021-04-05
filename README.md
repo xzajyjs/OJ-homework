@@ -1,2 +1,2 @@
 # OJ-homework
-NUIST-OJ [(Click here)](cpc.nuist.edu.cn)
+NUIST-OJ [(Click here)](https://cpc.nuist.edu.cn/)
