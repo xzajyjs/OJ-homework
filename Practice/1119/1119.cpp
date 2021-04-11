@@ -58,5 +58,3 @@ int Change(int N,int x){
     //if(x == 0)
     return s;
 }
-
-//bug:进制转化函数中二进制的讨论
